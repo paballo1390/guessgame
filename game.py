@@ -22,11 +22,46 @@ print ("Exit")
 
 print ("2. Profile")
 
+if guess = ("scre-number")
+print ("Congrats you've won")
 
-If condition:
-refiloe =37
-if refiloe < 37:
-  print (" I am young")
-else:
-  print(" I am aged")
+#[Define a function to calculate score
 
+def calculate_score(attempts)
+return 10 * attempts
+
+if attempts == 1:
+return calculation_score -5
+
+
+
+
+
+
+
+
+
+#Problem Statement
+# 1. Imagine you are working on a project with a team, and you need to be able to keep #track of all the tasks numbers do. How will yo siplify this collaboration?
+
+# 2. An educator wants to engage learners of an ECD Center for special needs learners
+#and teach them in a way that is entertaining and fun.
+#that programme can she use for this
+
+ #3. Picture yourself as a librarian managing a busy library, What program can you use
+  #to catalog books, track borroeing and provide an easy way for all library members
+  #to access resources?
+
+  
+
+
+
+
+
+
+
+a =1
+b =2
+def add numbers (a+b)
+result = a+b
+return result
