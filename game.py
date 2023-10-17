@@ -21,3 +21,12 @@ print ("Profile")
 print ("Exit")
 
 print ("2. Profile")
+
+
+If condition:
+refiloe =37
+if refiloe < 37:
+  print (" I am young")
+else:
+  print(" I am aged")
+
